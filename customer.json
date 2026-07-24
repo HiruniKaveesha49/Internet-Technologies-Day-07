@@ -1,0 +1,47 @@
+[
+    {
+        "id":"001",
+        "name":"saman",
+        "address":"ambalangoda",
+        "salary":75000
+    },
+
+    {
+        "id":"002",
+        "name":"kamal",
+        "address":"hambanthota",
+        "salary":85000
+
+    },
+
+    {
+        "id":"003",
+        "name":"nimal",
+        "address":"kurunagala",
+        "salary":95000
+
+    },
+
+    {
+        "id":"004",
+        "name":"wimal",
+        "address":"rathnapura",
+        "salary":175000
+
+    },
+
+    {
+        "id":"005",
+        "name":"saman",
+        "address":"badulla",
+        "salary":275000
+    },
+
+    {
+        "id":"006",
+        "name":"saman",
+        "address":"alpitiya",
+        "salary":375000
+
+    }
+]
